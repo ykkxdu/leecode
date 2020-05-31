@@ -5,7 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src/一周中的第几天-1185" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/198-打家劫舍" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/84-柱状图中最大的矩形" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/镜像二叉树" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
