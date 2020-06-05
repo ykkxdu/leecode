@@ -54,7 +54,6 @@ public class Solution {
         for (int i = 1; i < length; i++) {
             answer[i] = nums[i - 1] * answer[i - 1];
         }
-
         // R 为右侧所有元素的乘积
         // 刚开始右边没有元素，所以 R = 1
         int R = 1;
